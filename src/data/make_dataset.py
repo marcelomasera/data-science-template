@@ -154,7 +154,7 @@ data_merged.columns = ['acc_x',
                        'gyr_x',
                        'gyr_y',
                        'gyr_z',
-                       'participant'
+                       'participant',
                        'label',
                        'category',
                        'set']
